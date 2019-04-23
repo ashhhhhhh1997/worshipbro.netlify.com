@@ -1,0 +1,693 @@
+# worshipbro.netlify.com
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+
+  <link rel="shortcut icon" href="WB-Favicon.png" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="57x57" href="WB-Favicon.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="WB-Favicon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="WB-Favicon.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="WB-Favicon.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="WB-Favicon.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="WB-Favicon.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="WB-Favicon.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="WB-Favicon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="WB-Favicon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="WB-Favicon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="WB-Favicon.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="WB-Favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="WB-Favicon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="All.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Gothic+A1:400,500,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Asap:400,500,600,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Peddana" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Heebo:400,500,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Yantramanav:400,500,700,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Arimo:400,700" rel="stylesheet">
+  <meta name="description" content="Check out our collection of some of the best christian content on the internet!">
+  <meta name="keywords"
+    content="Christian,Quotes, christian memes, bible verses, christian articles, bible verses, Christian Blogs">
+  <meta name="author" content="WorshipBro">
+  <title>WorshipBro</title>
+  <link rel="manifest" href="/manifest.json" />
+  <!-- Google Tag Manager -->
+  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KJ9GPFQ');
+  </script>
+  <!-- End Google Tag Manager -->
+  <script src="https://code.jquery.com/jquery-2.2.3.min.js"
+    integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135315511-1"></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function () {
+      OneSignal.init({
+        appId: "da1c34ac-b809-4e4b-972a-607e116aff35",
+      });
+    });
+  </script>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-5892705709830218",
+      enable_page_level_ads: true
+    });
+  </script>
+
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135315511-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-135315511-1');
+  </script>
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJ9GPFQ" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div id="navbar">
+    <a class="logo" href="#home"><b class="lb">WORSHIP</b>BRO</a>
+    <div class="float">
+      <a href="#home"><b class="act">Home</b></a>
+      <a href="Quotes.html">Quotes</a>
+      <a href="Memes.html">Memes</a>
+      <a href="Verses.html">Verses</a>
+      <a href="Articles.html">Articles</a>
+    </div>
+  </div>
+
+  <section id="main">
+    <figure id="left">
+      <div class="wrapped">
+        <div id="phone-rec">
+          <a href="Quotes.html#Quotes22">
+            <div class="frontground2"> </div>
+            <img src="Quotes/Quote-4534534534534.png">
+            <p class="phone-p">Quotes</p>
+          </a>
+          <a href="Verses.html#Verse1">
+
+            <img src="Verses/Verse-1.png">
+            <p class="phone-p">Verses</p>
+          </a>
+          <a href="Memes.html#Memes222">
+
+            <img src="Memes/Meme-1.png">
+            <p class="phone-p">Memes</p>
+          </a>
+          <a href="Quotes.html#Quote23">
+
+            <img src="Quotes/Quote-353454534534.png">
+            <p class="phone-p">Quotes</p>
+          </a>
+          <a href="Verses.html#Verse11">
+
+            <img src="Verses/Verse-3243243243243243243.png">
+            <p class="phone-p">Verses</p>
+          </a>
+          <a href="Memes.html#Meme32">
+
+            <img src="Memes/Meme-demon.png">
+            <p class="phone-p">Memes</p>
+          </a>
+          <a href="Quotes.html#Quote53">
+
+            <img src="Quotes/Quote123123232.png">
+            <p class="phone-p">Quotes</p>
+          </a>
+          <a href="Verses.html#Verse23">
+
+            <img src="Verses/Verse-4323432423423.png">
+            <p class="phone-p">Verses</p>
+          </a>
+          <a href="Memes.html#Meme321">
+
+            <img src="Memes/Memes-3432534645634322222.png">
+            <p class="phone-p">Memes</p>
+          </a>
+        </div>
+      </div>
+
+
+
+      <a name="">
+        <figure id="posts">
+          <a href="Verses/Verse-4534534534543.png">
+            <img id="images" src="Verses/Verse-4534534534543.png" alt=" Isaiah 40:29 ">
+          </a>
+          <figcaption id="caption">
+            <p id="text">sdsfsdfsad
+
+            
+            </p>
+            <div id="under-links">
+              <a href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Verses/Verse-4534534534543.png"><i class="fas fa-share-square"></i></a>
+              <a href="Verses/Verse-4534534534543.png" download><i class="fas fa-arrow-down"></i></a>
+            </div>
+          </figcaption>
+        </figure>
+      </a>
+      <a name="">
+        <figure id="posts">
+          <a href="Verses/Verse-4534534534543.png">
+            <img id="images" src="Verses/Verse-4534534534543.png" alt=" Isaiah 40:29 ">
+          </a>
+          <figcaption id="caption">
+            <p id="text"> He giveth power to the faint; and to them that have no might he increaseth strength.
+
+              - Isaiah 40:29 
+            </p>
+            <div id="under-links">
+              <a href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Verses/Verse-4534534534543.png"><i class="fas fa-share-square"></i></a>
+              <a href="Verses/Verse-4534534534543.png" download><i class="fas fa-arrow-down"></i></a>
+            </div>
+          </figcaption>
+        </figure>
+      </a>
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Quotes<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Quotes/Quote-54767345234233.png">
+          <img id="images" src="w.png" data-src="Quotes/Quote-54767345234233.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text">Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee;
+            yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. - Isaiah 41:10 </p>
+          <div id="under-links">
+            <a
+              href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index/Quotes/Quote-54767345234233.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Quotes/Quote-54767345234233.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure id="posts">
+        <figcaption id="caption">
+          <p id="text">Snuggle in God's arms. When you are hurting, when you feel lonely, left out. let Him cradle you,
+            comfort you, reassure you of His all-sufficient power and love. <br><br>
+            <b>Author</b> Unknown </p>
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Memes<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Memes/Meme-32423423121.png">
+          <img id="images" src="w.png" data-src="Memes/Meme-32423423121.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text"> <b>Inspired by</b> epicchristianmemes
+          </p>
+          <div id="under-links">
+            <a
+              href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index/Memes/Meme-32423423121.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Memes/Meme-32423423121.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure id="clothing">
+        <a target="_blank" href="https://www.bonfire.com/worship-4/"><img src="shirt.jpg" alt="" width="150px;">
+          <figcaption><b>Worship</b> $20.99</figcaption>
+        </a>
+        <a target="_blank" href="https://www.bonfire.com/mess-to-blessed/"><img src="long-sleeved.jpg" alt=""
+            width="150px;">
+          <figcaption><b>Mess to blessed</b> $20.99</figcaption>
+        </a>
+        <a target="_blank" href="https://www.bonfire.com/found-in-him/"><img src="found.jpg" alt="" width="150px;">
+          <figcaption><b>Found in Him</b> $22.99 </figcaption>
+        </a>
+        <a target="_blank" href="https://www.bonfire.com/worship-hoodie/"><img src="Worship.jpg" alt="" width="150px;">
+          <figcaption><b>Worship Hoodie</b> $34.99 </figcaption>
+        </a>
+      </figure>
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Verses<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Verses/Verse-23432423435465436.png">
+          <img id="images" src="w.png" data-src="Verses/Verse-23432423435465436.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text"> I wait for the LORD, my soul doth wait, and in his word do I hope. - Psalm 130:5
+          </p>
+          <div id="under-links">
+            <a
+              href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index/Verse-23432423435465436.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Verses/Verse-23432423435465436.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure id="posts">
+        <a href="Article-2.html">
+          <img id="article-images" src="Articles/Heaven.jpg" alt="">
+          <div class="Artcile1">
+            <figcaption id="blog-top">Here's What You Need To Know About Heaven</figcaption>
+            <figcaption id="caption">
+              <p id="blog-text">Ever wondered what Heaven will be like? In this article we'll go through some of heavens
+                main attributes and what to expect.</p>
+          </div>
+        </a>
+      </figure>
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Quotes<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Quotes/Quote-32423423423423432.png">
+          <img id="images" src="w.png" data-src="Quotes/Quote-32423423423423432.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text">And the LORD, he it is that doth go before thee; he will be with thee, he will not fail thee,
+            neither forsake thee: fear not, neither be dismayed. - Deuteronomy 31:8</p>
+          <div id="under-links">
+            <a
+              href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index/Quotes/Quote-32423423423423432.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Quotes/Quote-32423423423423432.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure id="posts">
+        <figcaption id="caption">
+          <p id="text">
+            God calls us to have the strength to trust Him over our hopelessness and to let Him give us the strength to
+            overcome what it is that we feel hopeless to. <br><br>
+            <b>Author</b>Jeff Andras </p>
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Memes<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Quotes/Quote-43534543534.png">
+          <img id="images" src="w.png" data-src="Memes/Meme-324234322.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text"> <b>Inspired by</b> epicchristianmemes
+          </p>
+          <div id="under-links">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Quotes/Quote-43534543534.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Quotes/Quote-43534543534.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Verses<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="/Verses/Verse-1.png">
+          <img id="images" src="w.png" data-src="/Verses/Verse-1.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text"> That your faith should not stand in the wisdom of men, but in the power of God.
+            - 1 Corinthians 2:5
+          </p>
+          <div id="under-links">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index//Verses/Verse-1.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="/Verses/Verse-1png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+      <figure id="posts">
+        <a href="Article-1.html">
+          <img id="article-images" src="Articles/Article-32432.png" alt="">
+          <div class="Artcile1">
+            <figcaption id="blog-top">What is The Gopsel? The Gopsel Explained In Depth</figcaption>
+            <figcaption id="caption">
+              <p id="blog-text">The gospel is the most important biblical doctrine, without it the Christian faith
+                wouldn't exist. </p>
+          </div>
+        </a>
+      </figure>
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Quotes<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Quotes/Quote-3241242341234325132531.png">
+          <img id="images" src="w.png" data-src="Quotes/Quote-3241242341234325132531.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text">Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+            - Psalm 51:12</p>
+          <div id="under-links">
+            <a
+              href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index/Quotes/Quote-3241242341234325132531.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Quotes/Quote-3241242341234325132531.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure id="posts">
+        <figcaption id="caption">
+          <p id="text">
+
+            What comes into our minds when we think about God is the most important thing about us. <br><br>
+            <b>Author</b> A.W. Tozer </p>
+          </div>
+        </figcaption>
+      </figure>
+
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Memes<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Memes/Meme-1.png">
+          <img id="images" src="w.png" data-src="Memes/Meme-1.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text"> <b>Inspired by</b> epicchristianmemes
+          </p>
+          <div id="under-links">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index/Memes/Meme-1.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Memes/Meme-1.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Verses<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Verses/Verse-4323432423423.png">
+          <img id="images" src="w.png" data-src="Verses/Verse-4323432423423.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text"> All things were made by him; and without him was not any thing made that was made.
+            - John 1:3
+          </p>
+          <div id="under-links">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index/Verse-4323432423423.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Verses/Verse-4323432423423.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Quotes<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Quotes/Quote-34553252.png">
+          <img id="images" src="w.png" data-src="Quotes/Quote-34553252.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text">But none of these things move me, neither count I my life dear unto myself, so that I might
+            finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel
+            of the grace of God.
+            - Acts 20:24</p>
+          <div id="under-links">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index/Quote-34553252.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Quotes/Quote-34553252.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+      <figure id="posts">
+        <figcaption id="caption">
+          <p id="text">
+
+            What comes into our minds when we think about God is the most important thing about us. <br><br>
+            <b>Author</b> A.W. Tozer </p>
+          </div>
+        </figcaption>
+      </figure>
+
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Memes<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Memes/Memes-3432534645634322222.png">
+          <img id="images" src="w.png" data-src="Memes/Memes-3432534645634322222.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text"> <b>Inspired by</b> jesusgiveslifememeing
+          </p>
+          <div id="under-links">
+            <a
+              href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Memes/Memes-3432534645634322222.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Memes/Memes-3432534645634322222.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+
+      <figure id="posts">
+        <figcaption id="top"><b>Most Popular Verses<i id="fire" class="fas fa-fire"></i></figcaption>
+        <a href="Verses/Verse-3243243243243243243.png">
+          <img id="images" src="w.png" data-src="Verses/Verse-3243243243243243243.png" alt="">
+        </a>
+        <figcaption id="caption">
+          <p id="text"> Trust in the LORD with all thine heart; and lean not unto thine own understanding.
+            - Proverbs 3:5
+          </p>
+          <div id="under-links">
+            <a
+              href="https://www.facebook.com/sharer/sharer.php?u=https://worshipbro.com/Index/Verse-3243243243243243243.png"><i
+                class="fas fa-share-square"></i></a>
+            <a href="Verses/Verse-3243243243243243243.png" download><i class="fas fa-arrow-down"></i></a>
+          </div>
+        </figcaption>
+      </figure>
+
+
+
+    </figure>
+    <figure id="right1">
+      <h1 id="side-title">Recommended</h1>
+      <ul id="wrap">
+        <a href="Quotes.html#Quotes22">
+          <div class="sides">
+
+            <img id="icons" src="Quotes/Quote-4534534534534.png">
+            <p class="p"><b>God Has it Figured Out</b>
+        </a>
+        <br> <a href="Quotes.html"><small class="h">Quotes</small></p></a></div>
+        <a href="Verses.html#Verse1">
+          <div class="sides">
+
+            <img id="icons" src="Verses/Verse-1.png">
+            <p class="p"><b> Put Your Faith In God </b>
+        </a>
+        <br> <small class="h">Verses</small></p>
+        </div>
+        <a href="Memes.html#Meme2">
+          <div class="sides">
+
+            <img id="icons" src="Memes/Meme-1.png">
+            <p class="p"><b> When The Sermon Convicts You</b> <br> <small class="h">Memes</small></p>
+          </div>
+        </a>
+        <a href="Quotes.html#Quote23">
+          <div class="sides">
+
+            <img id="icons" src="Quotes/Quote-353454534534.png">
+            <p class="p"><b> God is Fighting For You</b> <br> <small class="h">Quotes</small></p>
+          </div>
+        </a>
+        <a href="Verses.html#Verse11">
+          <div class="sides">
+
+            <img id="icons" src="Verses/Verse-3243243243243243243.png">
+            <p class="p"><b> Trust In God's Understanding </b> <br> <small class="h">Verses</small></p>
+          </div>
+        </a>
+        <a href="Memes.html#Meme32">
+          <div class="sides">
+
+            <img id="icons" src="Memes/Meme-demon.png">
+            <p class="p"><b>When You Hear a Demon</b> <br> <small class="h">Memes</small></p>
+          </div>
+        </a>
+        <a href="Quotes.html#Quote53">
+          <div class="sides">
+
+            <img id="icons" src="Quotes/Quote123123232.png">
+            <p class="p"><b> Pray Before You Overthink</b> <br> <small class="h">Quotes</small></p>
+          </div>
+        </a>
+        <a href="Verses.html#Verse23">
+          <div class="sides">
+
+            <img id="icons" src="Verses/Verse-4323432423423.png">
+            <p class="p"><b> God Made Everything </b> <br> <small class="h">Verse</small></p>
+          </div>
+        </a>
+        <a href="Memes.html#Meme321">
+          <div class="sides">
+            <img id="icons" src="Memes/Memes-3432534645634322222.png">
+            <p class="p"><b>Shocked Roman at Subway </b> <br> <small class="h">Memes</small></p>
+          </div>
+        </a>
+      </ul>
+      <div class="copyright">
+        <p>&copy; 2019 Worshipbro</p>
+      </div>
+    </figure>
+    <figure id="right2">
+      <div class="ad">
+        <div class="in">
+          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          <!-- New ads -->
+          <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5892705709830218"
+            data-ad-slot="2617776243" data-ad-format="auto" data-full-width-responsive="true"></ins>
+          <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </div>
+      </div>
+    </figure>
+  </section>
+  <div class="fixedad">
+    <div class="under">
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- mobile -->
+      <ins class="adsbygoogle" style="display:inline-block;width:100%;height:50px"
+        data-ad-client="ca-pub-5892705709830218" data-ad-slot="2221863454"></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+  </div>
+  <div class="footer">
+
+
+
+    <a href="#"><i class="fas fa-home" style="color:black;"></i></a>
+    <a href="Quotes.html"><i class="fas fa-quote-right"></i></a>
+    <a href="Memes.html"><i class="fas fa-grin-tears"></i></a>
+    <a href="Verses.html"><i class="fas fa-bible"></i></a>
+    <a href="Articles.html"><i class="fas fa-newspaper"></i></a>
+  </div>
+  <!--Import jQuery before materialize.js-->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-135315511-1');
+  </script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-5892705709830218",
+      enable_page_level_ads: true
+    });
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127419880-1"></script>
+  <script>
+    < script type="text/javascript" >
+      $(window).scroll(function() {
+        if ($(window).scrollTop() == $(document).height(600 px) - $(window).height()) {
+        // load your content
+      }
+      });
+  </script>
+  <script>
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+      var currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+        document.getElementById("navbar").style.top = "0";
+      } else {
+        document.getElementById("navbar").style.top = "-50px";
+      }
+      prevScrollpos = currentScrollPos;
+    }
+  </script>
+  <script>
+    function isVisible(elem) {
+
+        let coords = elem.getBoundingClientRect();
+
+      let windowHeight = document.documentElement.clientHeight;
+
+      let topVisible = coords.top > 0 && coords.top < windowHeight;
+      let bottomVisible = coords.bottom < windowHeight && coords.bottom > 0;
+
+      return topVisible || bottomVisible;
+    }
+
+
+
+    function showVisible() {
+      for (let img of document.querySelectorAll('img')) {
+        let realSrc = img.dataset.src;
+      if (!realSrc) continue;
+
+        if (isVisible(img)) {
+        // disable caching
+        // this line should be removed in production code
+        realSrc += '?nocache=' + Math.random();
+
+          img.src = realSrc;
+
+      img.dataset.src = '';
+    }
+  }
+
+}
+
+window.addEventListener('scroll', showVisible);
+showVisible();
+  </script>
+  <script>
+    function myFunction() {
+      var dots = document.getElementById("dots");
+      var moreText = document.getElementById("more");
+      var btnText = document.getElementById("myBtn");
+
+      if (dots.style.display === "none") {
+        dots.style.display = "inline";
+      btnText.innerHTML = "";
+      moreText.style.display = "none";
+      } else {
+        dots.style.display = "none";
+        btnText.innerHTML = "";
+      moreText.style.display = "inline";
+    }
+  }
+  </script>
+
+
+</body>
+
+</html>
